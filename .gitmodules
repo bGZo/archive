@@ -10,3 +10,15 @@
 [submodule "github/qdaily_backup"]
 	path = github/qdaily_backup
 	url = git@github.com:LampScript/qdaily_backup.git
+[submodule "github/ljinkai/weekly"]
+	path = github/ljinkai/weekly
+	url = git@github.com:ljinkai/weekly.git
+[submodule "github/zenany/weekly"]
+	path = github/zenany/weekly
+	url = git@github.com:zenany/weekly.git
+[submodule "github/xitu/gold-miner"]
+	path = github/xitu/gold-miner
+	url = git@github.com:xitu/gold-miner.git
+[submodule "github/ascoders/weekly"]
+	path = github/ascoders/weekly
+	url = git@github.com:ascoders/weekly.git
