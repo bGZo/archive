@@ -1,0 +1,3 @@
+[submodule "github/ruanyifeng/weekly"]
+	path = github/ruanyifeng/weekly
+	url = git@github.com:ruanyf/weekly.git
