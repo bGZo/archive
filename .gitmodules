@@ -1,3 +1,12 @@
 [submodule "github/ruanyifeng/weekly"]
 	path = github/ruanyifeng/weekly
 	url = git@github.com:ruanyf/weekly.git
+[submodule "github/HelloGitHub"]
+	path = github/HelloGitHub
+	url = git@github.com:521xueweihan/HelloGitHub.git
+[submodule "github/haoel-articles"]
+	path = github/haoel-articles
+	url = git@github.com:ghostincoolshell/haoel-articles.git
+[submodule "github/qdaily_backup"]
+	path = github/qdaily_backup
+	url = git@github.com:LampScript/qdaily_backup.git
